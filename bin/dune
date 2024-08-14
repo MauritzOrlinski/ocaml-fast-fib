@@ -1,0 +1,4 @@
+(executable
+ (public_name fast_ocaml_fib)
+ (name main)
+ (libraries fast_ocaml_fib))

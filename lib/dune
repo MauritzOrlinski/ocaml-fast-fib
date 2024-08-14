@@ -1,0 +1,4 @@
+(library
+ (name fast_ocaml_fib)
+ (libraries zarith)
+ )
